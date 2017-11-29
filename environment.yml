@@ -2,9 +2,11 @@ name: cvloop
 channels:
   - conda-forge
   - defaults
+  - rdonnelly
 dependencies:
   - python=3.6
   - numpy
   - matplotlib
   - opencv
   - cvloop
+  - mesa-libgl-cos6-x86_64
