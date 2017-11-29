@@ -42,4 +42,8 @@ setup(
     keywords=[
         'OpenCV', 'cv2', 'video', 'loop', 'jupyter', 'notebook'
     ],
+    install_requires=[
+        'numpy',
+        'matplotlib',
+    ]
 )
